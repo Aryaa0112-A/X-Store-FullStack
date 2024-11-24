@@ -1,4 +1,4 @@
-## X-Beat | React eCommerce Web App
+## X-Store | React eCommerce Web App
 
 ### [Demo Link](https://x-beat.netlify.app/) 🔗
 
@@ -33,7 +33,7 @@ State management using Context API.
 
 ## Author:
 
-- **Gulshan Songara** - **[Portfolio Website](https://gulshansongara.netlify.app)**, **[Linkedin](https://www.linkedin.com/in/gulshan-songara/)**
+- **Arya Dillah** - **[Portfolio Website]([https://aryadillah.vercel.app](https://aryadillah.vercel.app/)**, **[Linkedin]([https://www.linkedin.com/in/Arya-Dillah/](https://www.linkedin.com/in/arya-dillah-297230254/)**
 
 <br/>
 
